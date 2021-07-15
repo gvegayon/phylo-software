@@ -1,5 +1,7 @@
 <div data-align="center">
 
+<div align="center" style="background-color: gray;font-weight:200;">This README.md file was generated using Pandoc applied to the website https://evolution.gs.washington.edu/phylip/software.html (<a href="https://felsenst.github.io">Prof. Felsenstein</a>)</div>
+  
 <table>
 <colgroup>
 <col style="width: 100%" />
